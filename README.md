@@ -1,6 +1,6 @@
 # Project3
 
-**TODO: Add description**
+Implementated pastry protocol according to the paper http://rowstron.azurewebsites.net/PAST/pastry.pdf using Actor model in Elixir.
 
 ## Installation
 
